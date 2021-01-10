@@ -18,7 +18,7 @@ Plugins
 
 ## Video demo
 
-![demo vue](https://github.com/oscarlira090/demo-vue-mapbox/blob/master/demo-vue.gif)
+![demo vue](https://github.com/oscarlira090/demo-vue-mapbox/blob/master/demo.gif)
 
 ## Usage
 
